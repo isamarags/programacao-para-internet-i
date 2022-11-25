@@ -20,7 +20,7 @@ Elenco:
 - Samuel L. Jackson
 */
 
-//Usando o código da questão anterior,
+//Usando o código da questão anterior
 class Ator {
   constructor(nome) {
     this.nome = nome;
